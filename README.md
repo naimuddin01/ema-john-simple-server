@@ -41,6 +41,6 @@ General steps to integrate SSLcommerze payment system
 
 2. **Install Required Packages:** Required packages are already installed if you install the `requirements.txt` file. But you can install sslcommerze package manually by running the following command
 
-```bash
-npm install sslcommerz-lib
-```
+   ```bash
+   npm install sslcommerz-lib
+   ```
